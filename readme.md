@@ -9,7 +9,7 @@ Modelo Base Recursos Humanos feito em Python
 ### Caracteristicas:
 
 * Criptografia
-* Senha para login
+* Senha para login: sic mundus creatus est
 * Extração de Informações como INSS, Faixa INSS, Desconto INSS, IRRF, Faixa IRRF, desconto IRRF.
 * Calco Salario Liquido, Decimo Terceiro Liquido, Ferias Liquida.
 
